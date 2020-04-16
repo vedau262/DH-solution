@@ -1,0 +1,17 @@
+{
+    "AppConfig": [],
+    "Theloai": [],
+    "Author": [],
+    "Noibat": [],
+    "Truyenma": [],
+    "Ngontinh": [],
+    "Truyenngan": [],
+    "Kiemhiep": [],
+    "Trinhtham": [],
+    "Cotich": [],
+    "Truyendai": [],
+    "Lichsu": [],
+    "Thanhcong": [],
+    "Doctruyendemkhuya": [],
+    "Tinhyeu": []
+}
