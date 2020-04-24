@@ -51,6 +51,21 @@
     "Truyenma": [],
     "Ngontinh": [],
     "Truyenngan": [
+		{
+            "booktitle": "xxx",
+            "bookauthor": "xxx",
+            "booknumber": 1,
+            "bookthumbnail": "https://photo-3-baomoi.zadn.vn/w700_r1/2019_09_14_15_32183531/dfb718db539bbac5e38a.jpg",
+            "bookurlmedia": "https://www.youtube.com/watch?v=82XNI2gKmOE",
+            "bookshortdesc": "Một câu chuyện giản dị, chứa đầy bất ngờ cho tới trang cuối cùng. Và đẹp lộng lẫy, vì lòng vị tha và tình yêu thương, khiến mắt rưng rưng vì một nỗi mừng vui hân hoan. Cuốn sách như một đốm lửa thắp lên lòng khát khao sống tốt trên đời.\r\n\r\nViết về điều tốt đã không dễ, viết sao cho người đọc có thể đón nhận đầy cảm xúc tích cực, và muốn được hưởng, được làm những điều tốt dù nhỏ bé... mới thật là khó. Làm bạn với bầu trời của Nguyễn Nhật Ánh đã làm được điều này, anh đã “mô tả cái tốt thật đẹp để người ta yêu thích nó”, như anh từng phát biểu “... điểm mạnh của văn chương nằm ở khả năng thẩm thấu. Bằng hình thức đặc thù của mình, văn chương góp phần mài sắc các ý niệm đạo đức nơi người đọc một cách vô hình. Bồi đắp tâm hồn và nhân cách một cách âm thầm và bền bỉ, đó là chức năng gốc rễ của văn chương, đặc biệt là văn chương viết cho thanh thiếu niên.”",
+            "booknoibat": 0,
+            "bookchude": "Truyện ngắn",
+            "booksingle": 1,
+            "enablethumbnail": 1,
+            "enablebook": 1,
+            "bookfield3": "NA",
+            "booksource": "NA"
+        },
         {
             "booktitle": "Làm bạn với bầu trời",
             "bookauthor": "Nguyễn Nhật Ánh",
