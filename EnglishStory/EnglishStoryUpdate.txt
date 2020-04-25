@@ -1,6 +1,18 @@
 {
     "AppConfig": [],
-    "Theloai": [],
+    "Theloai": [
+        {
+            "theloaititle": "Original Stories",
+            "theloaithumbmail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLyvHTYokOqhbfs1V8vP_BhTdh1eBI48wQhng8wGK3upgzLvUIwg&s",
+            "theloaiid": 0,
+            "theloaidesc": "Many of our kids` stories are exclusive to Storynory. We have stories about frogs, princesses, pirates, witches, birds, dogs, and people.",
+            "theloainumber": 1,
+            "enablethumbnail": 1,
+            "enabletheloai": 1,
+            "theloaibackupfeild3": "NA",
+            "key": "original"
+        }
+    ],
     "Noibat": [],
     "original": [
         {
