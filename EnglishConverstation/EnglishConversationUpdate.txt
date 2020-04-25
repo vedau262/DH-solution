@@ -1,17 +1,13 @@
 {
     "AppConfig": [],
     "Theloai": [],
-    "Author": [],
     "Noibat": [],
-    "Truyenma": [],
-    "Ngontinh": [],
-    "Truyenngan": [],
-    "Kiemhiep": [],
-    "Trinhtham": [],
-    "Cotich": [],
-    "Truyendai": [],
-    "Lichsu": [],
-    "Thanhcong": [],
-    "Doctruyendemkhuya": [],
-    "Tinhyeu": []
+    "beginnerA1": [],
+    "PreIntermediateA2": [],
+    "IntermediateB1": [],
+    "UpperIntermediateB2": [],
+    "AdvancedC1": [],
+    "EnglishSentencePatterns": [],
+    "EnglishConversationPractice": [],
+    "EnglishInterview": []
 }
