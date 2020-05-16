@@ -1,6 +1,18 @@
 {
     "AppConfig": [],
-    "Theloai": [],
+    "Theloai": [
+        {
+            "theloaititle": "Intermediate B1",
+            "theloaithumbmail": "https://learnenglish.britishcouncil.org/sites/podcasts/files/styles/view-section-landing/public/RS8048_GettyImages-722208805-hig.jpg?itok=yZb3drsS",
+            "theloaiid": 3,
+            "theloaidesc": "Are you an intermediate (CEFR level B1) learner of English? This section offers listening practice to help you understand the main points of clear, standard speech about everyday or job-related topics. Situations include phone calls, meetings and interviews.\n\nEach lesson has a preparation task, an audio recording and two tasks to check your understanding and to practise a variety of listening skills. Make a start today.",
+            "theloainumber": 12,
+            "enablethumbnail": 1,
+            "enabletheloai": 1,
+            "theloaibackupfeild3": "NA",
+            "key": "IntermediateB1"
+        }
+    ],
     "Noibat": [],
     "beginnerA1": [],
     "PreIntermediateA2": [],
