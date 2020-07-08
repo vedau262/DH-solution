@@ -14,8 +14,8 @@
             "fanbannerid": "936710933450492_936711410117111",
             "interstitialid": "936710933450492_936712390117013",
             "hadfanbanner": 1,
-            "hadfaninterstitial": 1,
-            "fandevicetestid": "a8dbc0d3-fe72-4f7b-82e0-f885c160b3d5"
+            "hadfaninterstitial": 0,
+            "fandevicetestid": "3248df47-22cc-474b-a3ac-11d86a3fd936"
         }
     ],
     "Theloai": [
