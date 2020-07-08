@@ -13,7 +13,7 @@
             "admodappid": "ca-app-pub-2264402643709166~2355665754",
             "fanbannerid": "936710933450492_936711410117111",
             "interstitialid": "936710933450492_936712390117013",
-            "hadfanbanner": 1,
+            "hadfanbanner": 0,
             "hadfaninterstitial": 0,
             "fandevicetestid": "3248df47-22cc-474b-a3ac-11d86a3fd936"
         }
