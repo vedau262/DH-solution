@@ -2,7 +2,7 @@
     "AppConfig": [
         {
             "loadadmobfirst": 1,
-            "hasadmobbanner": 1,
+            "hasadmobbanner": 0,
             "hadadmobinterstitial": 0,
             "hadadmobnative": 0,
             "interstitialframeshow": 15,
