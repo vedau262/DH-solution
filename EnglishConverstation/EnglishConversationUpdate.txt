@@ -1,21 +1,21 @@
 {
     "AppConfig": [
         {
-            "loadadmobfirst": 0,
+            "loadadmobfirst": 1,
             "hasadmobbanner": 0,
             "hadadmobinterstitial": 0,
             "hadadmobnative": 0,
             "interstitialframeshow": 15,
-            "banneradunitid": "ca-app-pub-2264402643709166/1042584086",
-            "interstitialfullscreenid": "ca-app-pub-2264402643709166/2623452582",
+            "banneradunitid": "ca-app-pub-4189484592683453/7276919943",
+            "interstitialfullscreenid": "ca-app-pub-4189484592683453/9722571140",
             "nativeadunitid": "xxx",
             "admobdeviceid": "0D5F69637B5D387D2457E7C499248B39",
-            "admodappid": "ca-app-pub-2264402643709166~2355665754",
-            "fanbannerid": "936710933450492_936711410117111",
-            "interstitialid": "936710933450492_936712390117013",
+            "admodappid": "ca-app-pub-4189484592683453~1094654974",
+            "fanbannerid": "695886994483514_695888001150080",
+            "interstitialid": "695886994483514_695890327816514",
             "hadfanbanner": 0,
             "hadfaninterstitial": 0,
-            "fandevicetestid": "3248df47-22cc-474b-a3ac-11d86a3fd936"
+            "fandevicetestid": "79c984f3-3561-4172-9ebf-229284c0d69b"
         }
     ],
     "Theloai": [
