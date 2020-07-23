@@ -1,0 +1,99 @@
+{
+  "categoryringtones": [
+    {
+      "file_name": "Popular",
+      "thumb": "cat_icon_bonus_pro",
+      "c_id": "1"
+    },
+    {
+      "file_name": "Bonus",
+      "thumb": "cat_icon_bonus_pro",
+      "c_id": "1"
+    },
+    {
+      "file_name": "Christmas",
+      "thumb": "cat_icon_holiday",
+      "c_id": "2"
+    },
+    {
+      "file_name": "The Best of 2020",
+      "thumb": "cat_icon_best_of",
+      "c_id": "3"
+    },
+    {
+      "file_name": "Blues",
+      "thumb": "cat_icon_blues",
+      "c_id": "4"
+    },
+    {
+      "file_name": "Classical",
+      "thumb": "cat_icon_classical",
+      "c_id": "5"
+    },
+    {
+      "file_name": "Old Telephone Ringtones",
+      "thumb": "cat_icon_classic",
+      "c_id": "6"
+    },
+    {
+      "file_name": "Country",
+      "thumb": "cat_icon_country",
+      "c_id": "7"
+    },
+    {
+      "file_name": "Electronic Music",
+      "thumb": "cat_icon_electro",
+      "c_id": "8"
+    },
+    {
+      "file_name": "Hip Hop",
+      "thumb": "cat_icon_hip_hop",
+      "c_id": "9"
+    },
+    {
+      "file_name": "Jazz",
+      "thumb": "cat_icon_jazz",
+      "c_id": "10"
+    },
+    {
+      "file_name": "Music of Latin America",
+      "thumb": "cat_icon_latino",
+      "c_id": "11"
+    },
+    {
+      "file_name": "Pop",
+      "thumb": "cat_icon_pop",
+      "c_id": "12"
+    },
+    {
+      "file_name": "Reggae",
+      "thumb": "cat_icon_reggae",
+      "c_id": "13"
+    },
+    {
+      "file_name": "Rock",
+      "thumb": "cat_icon_rock",
+      "c_id": "14"
+    },
+    {
+      "file_name": "Alarm",
+      "thumb": "cat_icon_alarms",
+      "c_id": "15"
+    },
+    {
+      "file_name": "Nature",
+      "thumb": "cat_icon_nature",
+      "c_id": "16"
+    },
+    {
+      "file_name": "Scary",
+      "thumb": "cat_icon_scary",
+      "c_id": "17"
+    },
+    {
+      "file_name": "Soundtracks",
+      "thumb": "cat_icon_soundtrack",
+      "c_id": "18"
+    }
+  ]
+}
