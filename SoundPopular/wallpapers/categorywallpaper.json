@@ -15,6 +15,14 @@
       "category_size": "4",
 	  "image_path": "https://raw.githubusercontent.com/vedau262/DH-solution/master/SoundPopular/wallpapers/Nature",
 	  "image_type": ".jpg"
+    },
+	  {
+      "c_id": "2",
+	  "file_name": "Test",
+      "thumb": "https://raw.githubusercontent.com/vedau262/DH-solution/master/SoundPopular/thumbs/Categories/",      
+      "category_size": "4",
+	  "image_path": "https://raw.githubusercontent.com/vedau262/DH-solution/master/SoundPopular/wallpapers/Nature",
+	  "image_type": ".jpg"
     }
   ]
 }
