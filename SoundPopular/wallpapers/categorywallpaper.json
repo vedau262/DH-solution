@@ -27,6 +27,14 @@
     },
 	{
       "c_id": "3",
+	  "file_name": "City",
+      "thumb": "https://raw.githubusercontent.com/vedau262/DH-solution/master/SoundPopular/wallpapers/CategoryThumb/City.webp",      
+      "category_size": "180",
+	  "image_path": "https://raw.githubusercontent.com/vedau262/DH-solution/master/SoundPopular/wallpapers/City",
+	  "image_type": ".jpg"
+    },
+	{
+      "c_id": "3",
 	  "file_name": "Love",
       "thumb": "https://raw.githubusercontent.com/vedau262/DH-solution/master/SoundPopular/wallpapers/CategoryThumb/Love.webp",      
       "category_size": "180",
