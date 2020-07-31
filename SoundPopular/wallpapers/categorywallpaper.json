@@ -75,6 +75,14 @@
     },
 	{
       "c_id": "10",
+	  "file_name": "Dark",
+      "thumb": "https://raw.githubusercontent.com/vedau262/DH-solution/master/SoundPopular/wallpapers/CategoryThumb/Dark.webp",      
+      "category_size": "180",
+	  "image_path": "https://raw.githubusercontent.com/vedau262/DH-solution/master/SoundPopular/wallpapers/Dark",
+	  "image_type": ".jpg"
+    },
+	{
+      "c_id": "11",
 	  "file_name": "Anime",
       "thumb": "https://raw.githubusercontent.com/vedau262/DH-solution/master/SoundPopular/wallpapers/CategoryThumb/Anime.webp",      
       "category_size": "30",
