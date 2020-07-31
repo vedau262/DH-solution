@@ -42,7 +42,22 @@
 	  "image_type": ".jpg"
     },
 	{
-      "c_id": "2",
+      "c_id": "4",
+	  "file_name": "Flowers",
+      "thumb": "https://raw.githubusercontent.com/vedau262/DH-solution/master/SoundPopular/wallpapers/CategoryThumb/Flowers.webp",      
+      "category_size": "180",
+	  "image_path": "https://raw.githubusercontent.com/vedau262/DH-solution/master/SoundPopular/wallpapers/Flowers",
+	  "image_type": ".jpg"
+    },{
+      "c_id": "5",
+	  "file_name": "Black",
+      "thumb": "https://raw.githubusercontent.com/vedau262/DH-solution/master/SoundPopular/wallpapers/CategoryThumb/Black.webp",      
+      "category_size": "180",
+	  "image_path": "https://raw.githubusercontent.com/vedau262/DH-solution/master/SoundPopular/wallpapers/Black",
+	  "image_type": ".jpg"
+    },
+	{
+      "c_id": "6",
 	  "file_name": "Anime",
       "thumb": "https://raw.githubusercontent.com/vedau262/DH-solution/master/SoundPopular/wallpapers/CategoryThumb/Anime.webp",      
       "category_size": "30",
