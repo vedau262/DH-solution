@@ -4,7 +4,7 @@
       "c_id": "0",
 	  "file_name": "Animals",
       "thumb": "https://raw.githubusercontent.com/vedau262/DH-solution/master/SoundPopular/wallpapers/CategoryThumb/Animals.webp",      
-      "category_size": "30",
+      "category_size": "150",
 	  "image_path": "https://raw.githubusercontent.com/vedau262/DH-solution/master/SoundPopular/wallpapers/Animals",
 	  "image_type": ".jpg"
     },
@@ -16,20 +16,29 @@
 	  "image_path": "https://raw.githubusercontent.com/vedau262/DH-solution/master/SoundPopular/wallpapers/Nature",
 	  "image_type": ".jpg"
     },
-	  {
+	  
+	{
+      "c_id": "2",
+	  "file_name": "Abstract",
+      "thumb": "https://raw.githubusercontent.com/vedau262/DH-solution/master/SoundPopular/wallpapers/CategoryThumb/Abstract.webp",      
+      "category_size": "45",
+	  "image_path": "https://raw.githubusercontent.com/vedau262/DH-solution/master/SoundPopular/wallpapers/Abstract",
+	  "image_type": ".jpg"
+    },
+	{
+      "c_id": "3",
+	  "file_name": "Love",
+      "thumb": "https://raw.githubusercontent.com/vedau262/DH-solution/master/SoundPopular/wallpapers/CategoryThumb/Love.webp",      
+      "category_size": "180",
+	  "image_path": "https://raw.githubusercontent.com/vedau262/DH-solution/master/SoundPopular/wallpapers/Love",
+	  "image_type": ".jpg"
+    },
+	{
       "c_id": "2",
 	  "file_name": "Anime",
       "thumb": "https://raw.githubusercontent.com/vedau262/DH-solution/master/SoundPopular/wallpapers/CategoryThumb/Anime.webp",      
       "category_size": "30",
 	  "image_path": "https://raw.githubusercontent.com/vedau262/DH-solution/master/SoundPopular/wallpapers/Anime",
-	  "image_type": ".jpg"
-    },
-	{
-      "c_id": "2",
-	  "file_name": "Love",
-      "thumb": "https://raw.githubusercontent.com/vedau262/DH-solution/master/SoundPopular/wallpapers/CategoryThumb/Love.webp",      
-      "category_size": "180",
-	  "image_path": "https://raw.githubusercontent.com/vedau262/DH-solution/master/SoundPopular/wallpapers/Love",
 	  "image_type": ".jpg"
     }
   ]
