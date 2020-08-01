@@ -1,0 +1,30 @@
+{
+  "ringtones": [
+    {
+      "name": {
+        "en": "Ambience"
+      },
+      "file_name": "add_sounds_ambience",
+      "file_path": "https://raw.githubusercontent.com/vedau262/DH-solution/master/SoundPopular/ringtones/categories/RainSound/",
+      "duration": "59768",
+      "author": "Steven M Bryant",
+      "author_url": "http://dig.ccmixter.org/people/stevieb357",
+      "licence_name": "(CC BY 3.0)",
+      "licence_url": "https://creativecommons.org/licenses/by/3.0/",
+      "image_url": ""
+    },
+	{
+      "name": {
+        "en": "Ambient Melody"
+      },
+      "file_name": "add_sounds_ambient_melody",
+      "file_path": "https://raw.githubusercontent.com/vedau262/DH-solution/master/SoundPopular/ringtones/categories/RainSound/",
+      "duration": "59768",
+      "author": "Steven M Bryant",
+      "author_url": "http://dig.ccmixter.org/people/stevieb357",
+      "licence_name": "(CC BY 3.0)",
+      "licence_url": "https://creativecommons.org/licenses/by/3.0/",
+      "image_url": ""
+    }
+  ]
+}
