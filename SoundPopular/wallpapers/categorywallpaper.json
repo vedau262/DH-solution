@@ -82,11 +82,51 @@
 	  "image_type": ".jpg"
     },
 	{
+      "c_id": "10",
+	  "file_name": "Fantasy",
+      "thumb": "https://raw.githubusercontent.com/vedau262/DH-solution/master/SoundPopular/wallpapers/CategoryThumb/Fantasy.webp",      
+      "category_size": "140",
+	  "image_path": "https://raw.githubusercontent.com/vedau262/DH-solution/master/SoundPopular/wallpapers/Fantasy",
+	  "image_type": ".jpg"
+    },
+	{
       "c_id": "11",
 	  "file_name": "Anime",
       "thumb": "https://raw.githubusercontent.com/vedau262/DH-solution/master/SoundPopular/wallpapers/CategoryThumb/Anime.webp",      
-      "category_size": "30",
+      "category_size": "156",
 	  "image_path": "https://raw.githubusercontent.com/vedau262/DH-solution/master/SoundPopular/wallpapers/Anime",
+	  "image_type": ".jpg"
+    },
+	{
+      "c_id": "11",
+	  "file_name": "Food",
+      "thumb": "https://raw.githubusercontent.com/vedau262/DH-solution/master/SoundPopular/wallpapers/CategoryThumb/Food.webp",      
+      "category_size": "180",
+	  "image_path": "https://raw.githubusercontent.com/vedau262/DH-solution/master/SoundPopular/wallpapers/Food",
+	  "image_type": ".jpg"
+    },
+	{
+      "c_id": "11",
+	  "file_name": "Holidays",
+      "thumb": "https://raw.githubusercontent.com/vedau262/DH-solution/master/SoundPopular/wallpapers/CategoryThumb/Holidays.webp",      
+      "category_size": "180",
+	  "image_path": "https://raw.githubusercontent.com/vedau262/DH-solution/master/SoundPopular/wallpapers/Holidays",
+	  "image_type": ".jpg"
+    },
+	{
+      "c_id": "11",
+	  "file_name": "Macro",
+      "thumb": "https://raw.githubusercontent.com/vedau262/DH-solution/master/SoundPopular/wallpapers/CategoryThumb/Macro.webp",      
+      "category_size": "180",
+	  "image_path": "https://raw.githubusercontent.com/vedau262/DH-solution/master/SoundPopular/wallpapers/Macro",
+	  "image_type": ".jpg"
+    },
+	{
+      "c_id": "11",
+	  "file_name": "Minimalism",
+      "thumb": "https://raw.githubusercontent.com/vedau262/DH-solution/master/SoundPopular/wallpapers/CategoryThumb/Minimalism.webp",      
+      "category_size": "180",
+	  "image_path": "https://raw.githubusercontent.com/vedau262/DH-solution/master/SoundPopular/wallpapers/Minimalism",
 	  "image_type": ".jpg"
     }
   ]
