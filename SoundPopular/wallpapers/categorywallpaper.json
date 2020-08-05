@@ -98,7 +98,7 @@
 	  "image_type": ".jpg"
     },
 	{
-      "c_id": "11",
+      "c_id": "12",
 	  "file_name": "Food",
       "thumb": "https://raw.githubusercontent.com/vedau262/DH-solution/master/SoundPopular/wallpapers/CategoryThumb/Food.webp",      
       "category_size": "180",
@@ -106,7 +106,7 @@
 	  "image_type": ".jpg"
     },
 	{
-      "c_id": "11",
+      "c_id": "13",
 	  "file_name": "Holidays",
       "thumb": "https://raw.githubusercontent.com/vedau262/DH-solution/master/SoundPopular/wallpapers/CategoryThumb/Holidays.webp",      
       "category_size": "180",
@@ -114,7 +114,7 @@
 	  "image_type": ".jpg"
     },
 	{
-      "c_id": "11",
+      "c_id": "14",
 	  "file_name": "Macro",
       "thumb": "https://raw.githubusercontent.com/vedau262/DH-solution/master/SoundPopular/wallpapers/CategoryThumb/Macro.webp",      
       "category_size": "180",
@@ -122,11 +122,51 @@
 	  "image_type": ".jpg"
     },
 	{
-      "c_id": "11",
+      "c_id": "15",
 	  "file_name": "Minimalism",
       "thumb": "https://raw.githubusercontent.com/vedau262/DH-solution/master/SoundPopular/wallpapers/CategoryThumb/Minimalism.webp",      
       "category_size": "180",
 	  "image_path": "https://raw.githubusercontent.com/vedau262/DH-solution/master/SoundPopular/wallpapers/Minimalism",
+	  "image_type": ".jpg"
+    },
+	{
+      "c_id": "16",
+	  "file_name": "Motorcycles",
+      "thumb": "https://raw.githubusercontent.com/vedau262/DH-solution/master/SoundPopular/wallpapers/CategoryThumb/Motorcycles.webp",      
+      "category_size": "180",
+	  "image_path": "https://raw.githubusercontent.com/vedau262/DH-solution/master/SoundPopular/wallpapers/Motorcycles",
+	  "image_type": ".jpg"
+    },
+	{
+      "c_id": "17",
+	  "file_name": "Music",
+      "thumb": "https://raw.githubusercontent.com/vedau262/DH-solution/master/SoundPopular/wallpapers/CategoryThumb/Music.webp",      
+      "category_size": "180",
+	  "image_path": "https://raw.githubusercontent.com/vedau262/DH-solution/master/SoundPopular/wallpapers/Music",
+	  "image_type": ".jpg"
+    },
+	{
+      "c_id": "18",
+	  "file_name": "Space",
+      "thumb": "https://raw.githubusercontent.com/vedau262/DH-solution/master/SoundPopular/wallpapers/CategoryThumb/Space.webp",      
+      "category_size": "180",
+	  "image_path": "https://raw.githubusercontent.com/vedau262/DH-solution/master/SoundPopular/wallpapers/Space",
+	  "image_type": ".jpg"
+    },
+	{
+      "c_id": "19",
+	  "file_name": "Sport",
+      "thumb": "https://raw.githubusercontent.com/vedau262/DH-solution/master/SoundPopular/wallpapers/CategoryThumb/Sport.webp",      
+      "category_size": "171",
+	  "image_path": "https://raw.githubusercontent.com/vedau262/DH-solution/master/SoundPopular/wallpapers/Sport",
+	  "image_type": ".jpg"
+    },
+	{
+      "c_id": "20",
+	  "file_name": "Technologies",
+      "thumb": "https://raw.githubusercontent.com/vedau262/DH-solution/master/SoundPopular/wallpapers/CategoryThumb/Technologies.webp",      
+      "category_size": "144",
+	  "image_path": "https://raw.githubusercontent.com/vedau262/DH-solution/master/SoundPopular/wallpapers/Technologies",
 	  "image_type": ".jpg"
     }
   ]
