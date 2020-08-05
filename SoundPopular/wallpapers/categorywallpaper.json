@@ -168,6 +168,22 @@
       "category_size": "144",
 	  "image_path": "https://raw.githubusercontent.com/vedau262/DH-solution/master/SoundPopular/wallpapers/Technologies",
 	  "image_type": ".jpg"
+    },
+	{
+      "c_id": "21",
+	  "file_name": "Textures",
+      "thumb": "https://raw.githubusercontent.com/vedau262/DH-solution/master/SoundPopular/wallpapers/CategoryThumb/Textures.webp",      
+      "category_size": "180",
+	  "image_path": "https://raw.githubusercontent.com/vedau262/DH-solution/master/SoundPopular/wallpapers/Textures",
+	  "image_type": ".jpg"
+    },
+	{
+      "c_id": "21",
+	  "file_name": "Words",
+      "thumb": "https://raw.githubusercontent.com/vedau262/DH-solution/master/SoundPopular/wallpapers/CategoryThumb/Words.webp",      
+      "category_size": "180",
+	  "image_path": "https://raw.githubusercontent.com/vedau262/DH-solution/master/SoundPopular/wallpapers/Words",
+	  "image_type": ".jpg"
     }
   ]
 }
