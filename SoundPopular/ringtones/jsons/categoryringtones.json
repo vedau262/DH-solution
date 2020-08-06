@@ -123,7 +123,12 @@
 	{
       "file_name": "S10 ringtones",
       "thumb": "https://raw.githubusercontent.com/vedau262/DH-solution/master/SoundPopular/thumbs/Categories/",
-      "c_id": "22"
+      "c_id": "23"
+    },
+	{
+      "file_name": "Notification ringtones",
+      "thumb": "https://raw.githubusercontent.com/vedau262/DH-solution/master/SoundPopular/thumbs/Categories/",
+      "c_id": "24"
     }
   ]
 }
