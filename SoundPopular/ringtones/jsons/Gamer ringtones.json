@@ -980,7 +980,8 @@
       "licence_name": "CC BY 3.0",
       "licence_url": "http://creativecommons.org/licenses/by/3.0",
       "image_url": ""
-    },{
+    },
+	{
       "name": {
         "en": "Mario underground theme"
       },
@@ -993,5 +994,109 @@
       "licence_url": "http://creativecommons.org/licenses/by/3.0",
       "image_url": ""
     },
+	{
+      "name": {
+        "en": "Megaman 1 up"
+      },
+      "file_name": "megaman1up.aac",
+      "file_path": "https://raw.githubusercontent.com/vedau262/DH-solution/master/SoundPopular/ringtones/categories/Gamerringtones/",
+      "duration": "11111",
+      "author": "Rush",
+      "author_url": "http://soundcloud.com/willierushrush",
+      "licence_name": "CC BY 3.0",
+      "licence_url": "http://creativecommons.org/licenses/by/3.0",
+      "image_url": ""
+    },
+	{
+      "name": {
+        "en": "Megaman 2 opening"
+      },
+      "file_name": "megaman2_opening.ogg",
+      "file_path": "https://raw.githubusercontent.com/vedau262/DH-solution/master/SoundPopular/ringtones/categories/Gamerringtones/",
+      "duration": "11111",
+      "author": "Rush",
+      "author_url": "http://soundcloud.com/willierushrush",
+      "licence_name": "CC BY 3.0",
+      "licence_url": "http://creativecommons.org/licenses/by/3.0",
+      "image_url": ""
+    },
+	{
+      "name": {
+        "en": "Megaman 2 stage clear"
+      },
+      "file_name": "megamanstageclear.aac",
+      "file_path": "https://raw.githubusercontent.com/vedau262/DH-solution/master/SoundPopular/ringtones/categories/Gamerringtones/",
+      "duration": "11111",
+      "author": "Rush",
+      "author_url": "http://soundcloud.com/willierushrush",
+      "licence_name": "CC BY 3.0",
+      "licence_url": "http://creativecommons.org/licenses/by/3.0",
+      "image_url": ""
+    },
+	{
+      "name": {
+        "en": "Megaman gameover"
+      },
+      "file_name": "megaman_gameover.ogg",
+      "file_path": "https://raw.githubusercontent.com/vedau262/DH-solution/master/SoundPopular/ringtones/categories/Gamerringtones/",
+      "duration": "11111",
+      "author": "Rush",
+      "author_url": "http://soundcloud.com/willierushrush",
+      "licence_name": "CC BY 3.0",
+      "licence_url": "http://creativecommons.org/licenses/by/3.0",
+      "image_url": ""
+    },
+	{
+      "name": {
+        "en": "Megaman life up"
+      },
+      "file_name": "megaman_lifeup.ogg",
+      "file_path": "https://raw.githubusercontent.com/vedau262/DH-solution/master/SoundPopular/ringtones/categories/Gamerringtones/",
+      "duration": "11111",
+      "author": "Rush",
+      "author_url": "http://soundcloud.com/willierushrush",
+      "licence_name": "CC BY 3.0",
+      "licence_url": "http://creativecommons.org/licenses/by/3.0",
+      "image_url": ""
+    },
+	{
+      "name": {
+        "en": "Megaman megabooster"
+      },
+      "file_name": "",
+      "file_path": "https://raw.githubusercontent.com/vedau262/DH-solution/master/SoundPopular/ringtones/categories/Gamerringtones/",
+      "duration": "11111",
+      "author": "Rush",
+      "author_url": "http://soundcloud.com/willierushrush",
+      "licence_name": "CC BY 3.0",
+      "licence_url": "http://creativecommons.org/licenses/by/3.0",
+      "image_url": ""
+    },
+	{
+      "name": {
+        "en": "Megaman start"
+      },
+      "file_name": "",
+      "file_path": "https://raw.githubusercontent.com/vedau262/DH-solution/master/SoundPopular/ringtones/categories/Gamerringtones/",
+      "duration": "11111",
+      "author": "Rush",
+      "author_url": "http://soundcloud.com/willierushrush",
+      "licence_name": "CC BY 3.0",
+      "licence_url": "http://creativecommons.org/licenses/by/3.0",
+      "image_url": ""
+    },
+	{
+      "name": {
+        "en": "Megaman victory"
+      },
+      "file_name": "",
+      "file_path": "https://raw.githubusercontent.com/vedau262/DH-solution/master/SoundPopular/ringtones/categories/Gamerringtones/",
+      "duration": "11111",
+      "author": "Rush",
+      "author_url": "http://soundcloud.com/willierushrush",
+      "licence_name": "CC BY 3.0",
+      "licence_url": "http://creativecommons.org/licenses/by/3.0",
+      "image_url": ""
+    }
   ]
 }
