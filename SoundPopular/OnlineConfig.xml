@@ -1,10 +1,11 @@
 {
-	"s_load_admob_first":"0",
+	"s_load_admob_first":"1",
 	"s_had_admob_banner":"1",
 	"s_had_admob_interstitial":"1",
 	"s_had_admob_native":"1",
 	"banner_ad_unit_id":"ca-app-pub-4189484592683453/6921696725",
 	"interstitial_full_screen_id":"ca-app-pub-4189484592683453/7851635016",
+	"native_adunit_id":"ca-app-pub-4189484592683453/6921696725",
 	"m_interstitial_frame_show":"15",
 	"s_had_fan_banner":"1",
 	"s_had_fan_interstitial":"1",
