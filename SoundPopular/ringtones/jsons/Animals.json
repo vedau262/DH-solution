@@ -223,7 +223,7 @@
     },
     {
       "name": {
-        "en": "Dzika Kaczka"
+        "en": "Wild Duck"
       },
       "file_name": "animals_dzika_kaczka.ogg",
       "file_path": "https://raw.githubusercontent.com/vedau262/DH-solution/master/SoundPopular/ringtones/categories/Animals/",
@@ -275,7 +275,7 @@
     },
     {
       "name": {
-        "en": "Foka"
+        "en": "Seal"
       },
       "file_name": "animals_foka.ogg",
       "file_path": "https://raw.githubusercontent.com/vedau262/DH-solution/master/SoundPopular/ringtones/categories/Animals/",
@@ -483,7 +483,7 @@
     },
 	{
       "name": {
-        "en": "Kaczka"
+        "en": "Duck"
       },
       "file_name": "animals_kaczka.ogg",
       "file_path": "https://raw.githubusercontent.com/vedau262/DH-solution/master/SoundPopular/ringtones/categories/Animals/",
@@ -561,7 +561,7 @@
     },
 	{
       "name": {
-        "en": "Kedziornik"
+        "en": "Tui"
       },
       "file_name": "animals_kedziornik.ogg",
       "file_path": "https://raw.githubusercontent.com/vedau262/DH-solution/master/SoundPopular/ringtones/categories/Animals/",
@@ -639,7 +639,7 @@
     },
 	{
       "name": {
-        "en": "Labedz"
+        "en": "Swan"
       },
       "file_name": "animals_labedz.ogg",
       "file_path": "https://raw.githubusercontent.com/vedau262/DH-solution/master/SoundPopular/ringtones/categories/Animals/",
@@ -704,7 +704,7 @@
     },
 	{
       "name": {
-        "en": "Lis"
+        "en": "Fox"
       },
       "file_name": "animals_lis.ogg",
       "file_path": "https://raw.githubusercontent.com/vedau262/DH-solution/master/SoundPopular/ringtones/categories/Animals/",
@@ -769,7 +769,7 @@
     },
 	{
       "name": {
-        "en": "Komar"
+        "en": "Mosquito"
       },
       "file_name": "animals_komar.ogg",
       "file_path": "https://raw.githubusercontent.com/vedau262/DH-solution/master/SoundPopular/ringtones/categories/Animals/",
@@ -779,20 +779,7 @@
       "licence_name": "CC BY 3.0",
       "licence_url": "http://creativecommons.org/licenses/by/3.0/",
       "image_url": "https://raw.githubusercontent.com/vedau262/DH-solution/master/SoundPopular/thumbs/Animals/"
-    },
-	{
-      "name": {
-        "en": "Komar"
-      },
-      "file_name": "animals_komar.ogg",
-      "file_path": "https://raw.githubusercontent.com/vedau262/DH-solution/master/SoundPopular/ringtones/categories/Animals/",
-      "duration": "11111",
-      "author": "tim.kahn",
-      "author_url": "https://freesound.org/people/tim.kahn/",
-      "licence_name": "CC BY 3.0",
-      "licence_url": "http://creativecommons.org/licenses/by/3.0/",
-      "image_url": "https://raw.githubusercontent.com/vedau262/DH-solution/master/SoundPopular/thumbs/Animals/"
-    },
+    }
 	{
       "name": {
         "en": "Kon"
@@ -886,7 +873,7 @@
     },
 	{
       "name": {
-        "en": "Kruk"
+        "en": "Raven"
       },
       "file_name": "animals_kruk.ogg",
       "file_path": "https://raw.githubusercontent.com/vedau262/DH-solution/master/SoundPopular/ringtones/categories/Animals/",
@@ -925,7 +912,7 @@
     },
 	{
       "name": {
-        "en": "Kukulka"
+        "en": "Cuckoo"
       },
       "file_name": "animals_kukulka.ogg",
       "file_path": "https://raw.githubusercontent.com/vedau262/DH-solution/master/SoundPopular/ringtones/categories/Animals/",
@@ -977,7 +964,7 @@
     },
 	{
       "name": {
-        "en": "Mucha"
+        "en": "Fly"
       },
       "file_name": "animals_mucha.ogg",
       "file_path": "https://raw.githubusercontent.com/vedau262/DH-solution/master/SoundPopular/ringtones/categories/Animals/",
@@ -1094,7 +1081,7 @@
     },
 	{
       "name": {
-        "en": "Orka"
+        "en": "Orca"
       },
       "file_name": "animals_orka.ogg",
       "file_path": "https://raw.githubusercontent.com/vedau262/DH-solution/master/SoundPopular/ringtones/categories/Animals/",
@@ -1276,7 +1263,7 @@
     },
 	{
       "name": {
-        "en": "Perkoz"
+        "en": "Grebe"
       },
       "file_name": "animals_perkoz.ogg",
       "file_path": "https://raw.githubusercontent.com/vedau262/DH-solution/master/SoundPopular/ringtones/categories/Animals/",
@@ -1315,7 +1302,7 @@
     },
 	{
       "name": {
-        "en": "Pingwin"
+        "en": "Penguin"
       },
       "file_name": "animals_pingwin.ogg",
       "file_path": "https://raw.githubusercontent.com/vedau262/DH-solution/master/SoundPopular/ringtones/categories/Animals/",
@@ -1575,7 +1562,7 @@
     },
 	{
       "name": {
-        "en": "Swierszcz"
+        "en": "Cricket"
       },
       "file_name": "animals_swierszcz.ogg",
       "file_path": "https://raw.githubusercontent.com/vedau262/DH-solution/master/SoundPopular/ringtones/categories/Animals/",
@@ -1692,7 +1679,7 @@
     },
 	{
       "name": {
-        "en": "Trzmiel"
+        "en": "Bumblebee"
       },
       "file_name": "animals_trzmiel.ogg",
       "file_path": "https://raw.githubusercontent.com/vedau262/DH-solution/master/SoundPopular/ringtones/categories/Animals/",
@@ -1770,7 +1757,7 @@
     },
 	{
       "name": {
-        "en": "Wieloryb"
+        "en": "Whale"
       },
       "file_name": "animals_wieloryb.ogg",
       "file_path": "https://raw.githubusercontent.com/vedau262/DH-solution/master/SoundPopular/ringtones/categories/Animals/",
@@ -1796,7 +1783,7 @@
     },
 	{
       "name": {
-        "en": "Wilk"
+        "en": "Wolf"
       },
       "file_name": "animals_wilk.ogg",
       "file_path": "https://raw.githubusercontent.com/vedau262/DH-solution/master/SoundPopular/ringtones/categories/Animals/",
