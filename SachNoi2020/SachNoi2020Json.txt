@@ -1,7 +1,7 @@
 {
     "AppConfig": [
         {
-            "loadadmobfirst": 1,
+            "loadadmobfirst": 0,
             "hasadmobbanner": 0,
             "hadadmobinterstitial": 0,
             "hadadmobnative": 0,
@@ -11,10 +11,10 @@
             "nativeadunitid": "ca-app-pub-2264402643709166/8626140229",
             "admobdeviceid": "0D5F69637B5D387D2457E7C499248B39",
             "admodappid": "ca-app-pub-4189484592683453~2803376360",
-            "fanbannerid": "1062723803860180_1827339227398630",
-            "interstitialid": "1062723803860180_1827367367395816",
-            "hadfanbanner": 0,
-            "hadfaninterstitial": 0,
+            "fanbannerid": "448491353213176_448491776546467",
+            "interstitialid": "448491353213176_448492653213046",
+            "hadfanbanner": 1,
+            "hadfaninterstitial": 1,
             "fandevicetestid": "e05e580a-1277-43b6-9902-5df54b1f0bae"
         }
     ],
